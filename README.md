@@ -43,6 +43,7 @@ Maven Silicon | VLSI Design Intern
 ●	Simulated and verified the design using Modelsim-Altera.
 ●	Synthesis of bridge top using Quartus Prime II.
 ●	RTL Coding and Synthesis in Verilog.
+(https://github.com/Rabiyabasari/AHB_TO_APB_BRIDGE.git)
 
 Emertxe Information Technologies | Intern                                                                                                    
 ●	Developed an IOT-based home automation system using PICSimLab and Blynk IOT mobile application.
