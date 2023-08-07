@@ -19,11 +19,11 @@ I hold a keen interest in VLSI design.
 
 ## Projects
 
--Designed and implemented single cycle RISC-V processor.
+-Designed and implemented a 32-bit single-cycle RISC-V processor.
 Designed based on RISC-V instruction set| Implemented different modules in Verilog| Built top-level module and testbench 
-for the same| Simulated and verified the design using Modelsim-Altera
+for the same| Simulated and verified the design using Modelsim-Altera(https://github.com/Rabiyabasari/Single_cycle_RISC-V.git)
 
--Designed and implemented five stage pipelined RISC-V processor.
+-Designed and implemented a 32-bit five-stage pipelined RISC-V processor.
 Implemented modules for each stage in Verilog| Checking pipeline hazards and implemented hazard unit| Built Top-level Pipeline module and test bench for the same| 
 Simulated and verified the design using Modelsim-Altera
 
@@ -34,6 +34,21 @@ design with LVS and DRC check
 
 -Tomato Sorting System| Utilized computer vision techniques to process sensor data and accurately classify tomatoes based on their 
 color, achieving a sorting accuracy of over 95%(https://github.com/Rabiyabasari/Tomato_sorting_system.git)
+
+## Internships
+
+
+Maven Silicon | VLSI Design Intern			   		                                            	   
+●	Designed and Implemented an AHB to APB bridge using Verilog based on the AMBA Protocol.
+●	Simulated and verified the design using Modelsim-Altera.
+●	Synthesis of bridge top using Quartus Prime II.
+●	RTL Coding and Synthesis in Verilog.
+
+Emertxe Information Technologies | Intern                                                                                                    
+●	Developed an IOT-based home automation system using PICSimLab and Blynk IOT mobile application.
+●	Controlled garden lights, and temperature monitoring, and managed water inflow and outflow in a water tank.
+●	Programmed Arduino Uno board in C using Arduino IDE. 
+
 
 
 ## Skills
