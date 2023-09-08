@@ -25,7 +25,7 @@ for the same| Simulated and verified the design using Modelsim-Altera(https://gi
 
 -Designed and implemented a 32-bit five-stage pipelined RISC-V processor.
 Implemented modules for each stage in Verilog| Checking pipeline hazards and implemented hazard unit| Built Top-level Pipeline module and test bench for the same| 
-Simulated and verified the design using Modelsim-Altera
+Simulated and verified the design using Modelsim-Altera(https://github.com/Rabiyabasari/Five_stage_pipelined_RISC-V)
 
 -Standard Cell Design and Analysis from Schematic to GDS-II.
 Designed and verified various basic gates for low-power and high-speed applications| using the Cadence Virtuoso tool suite in
