@@ -4,7 +4,7 @@ Hello there! I'm Rabiyabasari, and I'm passionate about the fascinating world of
 
 ## Background
 
-I am a third year student currently persuing Electronics and Instrumentation Engineering. 
+I recently graduated in 2024 with a bachelors degree in Electronics and Instrumentation Engineering from RV College of Engineering, Bengaluru.
 My academic journey has given me a solid foundation in digital and analog circuit design and hardware description languages.
 I hold a keen interest in VLSI design.
 
